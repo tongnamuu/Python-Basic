@@ -29,3 +29,7 @@ print(type(sval))
 ival=int(sval)
 print(type(ival))
 print(ival+1)
+
+
+nam=input('Who are you?')
+print('Welcome', nam)
