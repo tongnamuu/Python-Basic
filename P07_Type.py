@@ -10,6 +10,12 @@ print(eee)
 
 print(float(99)+100)
 
+print(10/2)
+print(9/2)
+print(99/100)
+print(10.0/2.0)
+print(99.0/100.0)
+
 i=42
 print(type(i))
 f=float(i)
